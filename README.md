@@ -726,6 +726,8 @@ Adapted from CISSPrep,
 
 ## Information lifecycle
 
+Un **C**arro lo **S**ubiran por que **U**saran un **S**caner, para revisar **A**C, **D**escompuesto
+
 1) Create
 2) Store
 3) Use
