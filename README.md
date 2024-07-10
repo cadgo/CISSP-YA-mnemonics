@@ -828,6 +828,7 @@ SM – Like "Samsung" or "storage management",
 ### Speed over reliability
 
 * RAID 2 – Byte striping for speed
+  ![Raid 2](https://hardzone.es/app/uploads-hardzone.es/2019/10/raid-2.jpg)
 * RAID 3 – Block striping for speed. Block is bigger than byte, therefore RAID 3 > RAID 2.
 
 ### Error-corrective
