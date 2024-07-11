@@ -839,7 +839,12 @@ SM – Like "Samsung" or "storage management",
 ### Error-corrective
 
 * RAID 5 – Data and parity striped
+
+![RAID 5](https://www.mercadoit.com/blog/wp-content/uploads/2019/01/RAID-5.jpg)
+  
 * RAID 6 – Same as RAID 5, but configuration is safer with little overhead over RAID 5
+
+![RAID 6](https://www.mercadoit.com/blog/wp-content/uploads/2019/01/RAID-6.jpg)
 
 ### Nested
 
