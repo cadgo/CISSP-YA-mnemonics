@@ -1092,6 +1092,15 @@ Story of a "PAPA" man following Code
 
 *(icons from Iconfinder, used for educational purposes)*
 
+## five rules of evidence
+1. authentic
+2. accurate
+3. complete
+4. convincing or reliable
+5. admissible
+
+AA CC A
+
 ## You got this.
 
 [Why you will pass the CISSP](https://www.youtube.com/watch?v=v2Y6Zog8h2A)
