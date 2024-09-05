@@ -1101,6 +1101,18 @@ Story of a "PAPA" man following Code
 
 AA CC A
 
+## Asset Inventory
+
+1. plan
+2. request
+3. procure
+4. receive
+5. retire 
+6. manage
+7. retire 
+
+
+
 ## You got this.
 
 [Why you will pass the CISSP](https://www.youtube.com/watch?v=v2Y6Zog8h2A)
